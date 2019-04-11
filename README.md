@@ -1,14 +1,12 @@
 # Ecosteader 
 
-Visit [Ecosteader] to learn about Ecological Democracy.
+0.  RECOMMENDED: Purge Twitter from your life and technology devices.  Ecosteaders are not Egoists. 
 
-How to use this repository of infinite wisdom:  
+1. Visit [Ecosteader] to learn more about Ecological Democracy.:  
 
-1. Begin with these [Lot Plan Considerations] to plan your lot and the foundation of your strucutre.
+2. Begin with these [Lot Plan Considerations] to plan your lot and the foundation of your structure.
 
-2. Design lean, build green.
-
-3. Create legacy as an Ecosteader's stead with a [Permanent "No Rent Covenant"] and gain ETERNAL karma! 
+3. Design lean, build green.  Create legacy as an Ecosteader's stead with a [Permanent "No Rent Covenant"] and gain ETERNAL karma! 
 
 4. Live in harmony with the birds, fish, and wildlife.  
 
