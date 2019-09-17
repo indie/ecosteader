@@ -7,8 +7,9 @@ git clone git@github.com:indie/ecosteader.git
 ```
 
 PDF intro:  https://github.com/indie/ecosteader/blob/master/Ecosteaders.odt.pdf
+Website public: [Ecosteader]
 
-An [Ecosteader] is one who recognizes that humans are but one user of shared soil. Shared 
+An Ecosteader is one who recognizes that humans are but one user of shared soil. Shared 
 caretaking of soil and watershed areas surrounding either urban rural environments improves 
 the overall ecosystem. All the creatures that are not humans -- from birds to fish to flora 
 to fauna -- benefit from cleaner waters and soils. This philosophy is also known as Community 
