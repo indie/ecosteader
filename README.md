@@ -6,7 +6,7 @@
 git clone git@github.com:indie/ecosteader.git
 ```
 
-PDF intro:  https://github.com/indie/ecosteader/blob/master/Ecosteaders.odt.pdf
+
 Website public: [Ecosteader]
 
 An Ecosteader is one who recognizes that humans are but one user of shared soil. Shared 
@@ -42,4 +42,4 @@ read our non-negotiable Terms of Service for more detail if you'd like to join:
 https://www.ecosteader.com/terms
 
 [Ecosteader]:https://www.ecosteader.com/public
-
+[indigenous]:https://www.ecosteader.com/tags/indigenous
